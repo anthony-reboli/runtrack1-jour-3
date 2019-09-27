@@ -1,0 +1,51 @@
+h1 {
+	color:red;
+	text-align:center;
+	font-style: italic;
+	}
+	
+.stage {
+	background-color: #EEE5DD;
+	text-align:center;
+	margin: 0;
+	padding: 10px 50px 20px;
+	border-radius: 15px
+	}
+.stage2 {
+	background-color: gold;
+	text-align:right;
+	margin: 0;
+	padding: 10px 50px 20px;
+	border-radius: 15px
+	}
+
+
+body {
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR857qV1mV1rwY4ZjShAbc0rjRmmPkNfy51_gKsfNDFCUglk0Lt")
+}
+
+#liste {
+	font-size: 14px;
+	font-family: Comic Sans MS;
+	text-align: left;
+}
+#bout {
+	color: blue;
+	background-color: gold
+}
+
+.tab {
+color: blue;
+}
+
+a:hover {
+  color: red;
+}
+
+.lien {
+		text-align: right;
+}
+	
+.form {
+text-align: center; 
+margin: auto;}

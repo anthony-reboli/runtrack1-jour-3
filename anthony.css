@@ -1,0 +1,79 @@
+h1 {
+	color:red;
+	text-align:center;
+	font-style: italic;
+	}
+	
+.stage {
+	background-color: #EEE5DD;
+	text-align:center;
+	box-shadow: 8px 8px 8px 8px #aaa; 
+	margin: 0;
+	padding: 10px 50px 20px;
+	border-radius: 15px;
+	clear: both;
+	}
+.stage2 {
+	background-color: #EEE5DD;
+	text-align:center;
+	margin: 0;
+	padding: 10px 50px 20px;
+	}
+
+
+body {
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc8NJbz4UVzE4rPhQxLgiKQWfv0beixLyKQsZU1xOMixCkfVtH");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#liste {
+	font-size: 14px;
+	font-family: Comic Sans MS;
+	text-align: center;
+}
+
+
+table {
+margin: auto;
+}
+
+td {
+text-align :center;
+}
+
+a:hover {
+  color: gold;
+}
+
+.lien {
+		text-align: center;
+}
+
+.tab {
+	text-align: center;
+	border: solid 2px;
+	color: #1749DE;
+}
+.form {
+text-align: center; 
+margin: auto;}
+
+.image {
+	background-image: url('1.jpeg');
+	background-size: 150px;
+	height: 150px;
+	width: 150px;
+	margin-left: 35em;
+	background-repeat: no-repeat;
+	
+}
+.image:hover
+{
+	background-image: url('2.jpeg');
+}
+
+#mot {
+	color: blue;
+	background-color: #A191CA;
+}
